@@ -1,0 +1,125 @@
+﻿
+@model IEnumerable<mvcCrud.Models.Transaction>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<h2>Transactions</h2>
+<form action="/Transaction/SearchById" method="post">
+    <p>
+        From : <input type="text" name="from" id="from" />
+
+        To : <input type="text" name="to" id="to" />
+    </p>
+    <input type="submit" value="Search" class="btn btn-success" />
+</form>
+<table class="table">
+    <tr class="header">
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.paymentmode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.fiscal_year)
+        </th>
+
+        <th>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(model => item.amount)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.paymentmode)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.date)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.fiscal_year)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.trans_id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.trans_id })
+
+            </td>
+        </tr>
+    }
+    </div>
+</table>
+<div>
+    <label for="sum">Total Cash :</label>
+    @Model.Sum(i => i.amount)
+
+</div>
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryui")
+    @Styles.Render("~/Content/cssjqryUi")
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-ui-1.12.1.min.js"></script>
+
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#from').autocomplete({
+
+        });
+        $('#to').autocomplete({
+
+        });
+        $('#from').datepicker();
+
+        $('#from').focus(function () {
+            $('#from').datepicker('show');
+        });
+
+        $('#from').click(function () {
+            $('#from').datepicker('show');
+        });
+        //$('#ui-datepicker-div').show();
+        $('#from').datepicker('show');
+        $('#to').datepicker();
+
+        $('#to').focus(function () {
+            $('#to').datepicker('show');
+        });
+
+        $('#to').click(function () {
+            $('#to').datepicker('show');
+        });
+        //$('#ui-datepicker-div').show();
+        $('#to').datepicker('show');
+    });
+    </script>
+    .
+}
+

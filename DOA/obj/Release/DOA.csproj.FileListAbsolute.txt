@@ -1,0 +1,5 @@
+E:\mvcCrud\DOA\bin\Release\DOA.dll
+E:\mvcCrud\DOA\bin\Release\DOA.pdb
+E:\mvcCrud\DOA\obj\Release\DOA.csprojResolveAssemblyReference.cache
+E:\mvcCrud\DOA\obj\Release\DOA.dll
+E:\mvcCrud\DOA\obj\Release\DOA.pdb

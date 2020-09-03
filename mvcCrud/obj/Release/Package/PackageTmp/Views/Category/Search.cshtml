@@ -1,0 +1,53 @@
+﻿@model IEnumerable<mvcCrud.Models.Category>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+<h2>Search Category</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+}
+
+<table class="table">
+    <tr class="header">
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category_type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category_code)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_type)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.category_code)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.category_id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.category_id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.category_id })
+            </td>
+        </tr>
+    }
+
+    </div>
+</table>
+<div class="form-actions no-color">
+    @Html.ActionLink("Back to List", "Index")
+</div>

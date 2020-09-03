@@ -1,0 +1,69 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Income Statement</h2>
+<form action="/ProfitLoss/IncomeStatementByDate" method="post">
+    <p>
+        From : <input type="text" name="from" id="from" />
+
+        To : <input type="text" name="to" id="to" />
+    </p>
+    <input type="submit" value="Search" class="btn btn-success" />
+</form>
+<div>
+    <label for="sum">Income : @ViewBag.Myincome</label>
+</div>
+<div>
+    <label for="sum">Sales Income : @ViewBag.MyString</label>
+</div>
+<div>
+    <label for="sum">Expenses :@ViewBag.Myexpenses</label>
+
+</div>
+<div>
+
+    <label for="sum">Net Earning @Html.TextBox("Remaining", null, new { @class = "form-control", Value = (ViewBag.Myincome + ViewBag.MyString) - (-ViewBag.Myexpenses), @readonly = "readonly" })</label>
+</div>
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryui")
+    @Styles.Render("~/Content/cssjqryUi")
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-ui-1.12.1.min.js"></script>
+
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#from').autocomplete({
+
+        });
+        $('#to').autocomplete({
+
+        });
+        $('#from').datepicker();
+
+        $('#from').focus(function () {
+            $('#from').datepicker('show');
+        });
+
+        $('#from').click(function () {
+            $('#from').datepicker('show');
+        });
+        //$('#ui-datepicker-div').show();
+        $('#from').datepicker('show');
+        $('#to').datepicker();
+
+        $('#to').focus(function () {
+            $('#to').datepicker('show');
+        });
+
+        $('#to').click(function () {
+            $('#to').datepicker('show');
+        });
+        //$('#ui-datepicker-div').show();
+        $('#to').datepicker('show');
+    });
+    </script>
+    .
+}

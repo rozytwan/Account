@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POS2Model1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="acc_transactions">
+    <Key>
+      <PropertyRef Name="trans_id" />
+    </Key>
+    <Property Name="trans_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="category_id" Type="int" />
+    <Property Name="category_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="description" Type="nvarchar" MaxLength="250" />
+    <Property Name="amount" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="fiscal_year" Type="nvarchar" MaxLength="50" />
+    <Property Name="paymentmode" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="account_category">
+    <Key>
+      <PropertyRef Name="category_id" />
+    </Key>
+    <Property Name="category_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="category_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="category_type" Type="nvarchar" MaxLength="50" />
+    <Property Name="category_code" Type="nvarchar" MaxLength="50" />
+    <Property Name="status" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="POS2Model1StoreContainer">
+    <EntitySet Name="acc_transactions" EntityType="Self.acc_transactions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="account_category" EntityType="Self.account_category" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

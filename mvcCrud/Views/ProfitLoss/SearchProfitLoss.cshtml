@@ -1,0 +1,125 @@
+﻿
+@model IEnumerable<mvcCrud.Models.ProfitLoss>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+<h2>Profit & Loss</h2>
+
+@*@using (Html.BeginForm("IncomeStatement", "ProfitLoss", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+    }*@
+<p>
+
+
+<style>
+    #myDIV {
+        width: 100%;
+        padding: 50px 0;
+        text-align: center;
+        background-color: lightblue;
+        margin-top: 20px;
+    }
+</style>
+<table class="table">
+    <tr class="header">
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.month)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th>
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_name)
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.amount)
+                
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.month)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.date)
+            </td>
+
+        </tr>
+    }
+</table>
+
+<div>
+    <label for="sum">Income :</label>
+    @Model.Where(x => x.status == "Income").Sum(i => i.amount)
+    <label for="sum">Expenses :</label>
+    @Model.Where(x => x.status == "Expenses").Sum(i => i.amount)
+</div>
+
+  <td>Profit(Loss) :</td>
+    <td>@Model.Sum(i => i.amount)</td>
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryui")
+    @Styles.Render("~/Content/cssjqryUi")
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-ui-1.12.1.min.js"></script>
+    @*<script>
+            $(function () {
+                $('.date-picker').datepicker();
+                $('.form-control input-md').datepicker();
+            });
+        </script>
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+
+                $('#dt1').autocomplete({
+
+                });
+                $('input[type=datetime]').datepicker({
+                    dateFormat: "dd/M/yy",
+                    changeMonth: true,
+                    changeYear: true,
+                    yearRange: "-60:+0"
+                });
+
+            });
+        </script>*@
+
+
+    .
+}
+
+

@@ -1,0 +1,540 @@
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\ApplicationInsights.config
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\csc.exe
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\vbc.exe
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\VBCSCompiler.exe
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\mvcCrud.dll.config
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\mvcCrud.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\mvcCrud.pdb
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Antlr3.Runtime.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\EntityFramework.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\EntityFramework.SqlServer.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.Web.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.ApplicationInsights.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Newtonsoft.Json.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Owin.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Helpers.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Mvc.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Optimization.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Razor.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.WebPages.Deployment.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.WebPages.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.WebPages.Razor.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\WebGrease.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.Web.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.ApplicationInsights.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Helpers.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Mvc.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Optimization.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.Razor.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.WebPages.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.WebPages.Deployment.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\System.Web.WebPages.Razor.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Antlr3.Runtime.pdb
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Newtonsoft.Json.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\EntityFramework.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\EntityFramework.SqlServer.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\obj\Debug\mvcCrud.csprojResolveAssemblyReference.cache
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\obj\Debug\mvcCrud.dll
+c:\users\sm tech\documents\visual studio 2015\Projects\mvcCrud\mvcCrud\obj\Debug\mvcCrud.pdb
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\BLL.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\DOA.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\BLL.pdb
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\DOA.pdb
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\PagedList.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\PagedList.Mvc.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\PagedList.xml
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\mvcCrud\bin\PagedList.Mvc.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\ApplicationInsights.config
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\csc.exe
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\vbc.exe
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\mvcCrud.dll.config
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\mvcCrud.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\mvcCrud.pdb
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Antlr3.Runtime.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\BLL.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\DOA.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\EntityFramework.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.Web.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Newtonsoft.Json.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Owin.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\PagedList.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\PagedList.Mvc.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Helpers.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Mvc.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Optimization.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Razor.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.WebPages.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\WebGrease.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\BLL.pdb
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\DOA.pdb
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.Web.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\PagedList.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\PagedList.Mvc.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Helpers.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Mvc.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Optimization.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.Razor.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.WebPages.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Antlr3.Runtime.pdb
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Newtonsoft.Json.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\EntityFramework.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\obj\Debug\mvcCrud.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\obj\Debug\mvcCrud.dll
+C:\Users\suresh\Downloads\mvcCrud\mvcCrud\obj\Debug\mvcCrud.pdb
+E:\mvcCrud\mvcCrud\bin\ApplicationInsights.config
+E:\mvcCrud\mvcCrud\bin\roslyn\csc.exe
+E:\mvcCrud\mvcCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mvcCrud\mvcCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mvcCrud\mvcCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mvcCrud\mvcCrud\bin\roslyn\System.Collections.Immutable.dll
+E:\mvcCrud\mvcCrud\bin\roslyn\System.Reflection.Metadata.dll
+E:\mvcCrud\mvcCrud\bin\roslyn\vbc.exe
+E:\mvcCrud\mvcCrud\bin\roslyn\VBCSCompiler.exe
+E:\mvcCrud\mvcCrud\bin\roslyn\VBCSCompiler.exe.config
+E:\mvcCrud\mvcCrud\bin\mvcCrud.dll.config
+E:\mvcCrud\mvcCrud\bin\mvcCrud.dll
+E:\mvcCrud\mvcCrud\bin\mvcCrud.pdb
+E:\mvcCrud\mvcCrud\bin\Antlr3.Runtime.dll
+E:\mvcCrud\mvcCrud\bin\BLL.dll
+E:\mvcCrud\mvcCrud\bin\DOA.dll
+E:\mvcCrud\mvcCrud\bin\EntityFramework.dll
+E:\mvcCrud\mvcCrud\bin\EntityFramework.SqlServer.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.DependencyCollector.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.Web.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.WindowsServer.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.ApplicationInsights.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Core.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Cookies.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Facebook.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Google.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.OAuth.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Twitter.dll
+E:\mvcCrud\mvcCrud\bin\Microsoft.Web.Infrastructure.dll
+E:\mvcCrud\mvcCrud\bin\Newtonsoft.Json.dll
+E:\mvcCrud\mvcCrud\bin\Owin.dll
+E:\mvcCrud\mvcCrud\bin\PagedList.dll
+E:\mvcCrud\mvcCrud\bin\PagedList.Mvc.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.Helpers.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.Mvc.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.Optimization.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.Razor.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.WebPages.Deployment.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.WebPages.dll
+E:\mvcCrud\mvcCrud\bin\System.Web.WebPages.Razor.dll
+E:\mvcCrud\mvcCrud\bin\WebGrease.dll
+E:\mvcCrud\mvcCrud\bin\BLL.pdb
+E:\mvcCrud\mvcCrud\bin\DOA.pdb
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.DependencyCollector.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.Web.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.AI.WindowsServer.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.ApplicationInsights.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mvcCrud\mvcCrud\bin\PagedList.xml
+E:\mvcCrud\mvcCrud\bin\PagedList.Mvc.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.Helpers.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.Mvc.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.Optimization.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.Razor.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.WebPages.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.WebPages.Deployment.xml
+E:\mvcCrud\mvcCrud\bin\System.Web.WebPages.Razor.xml
+E:\mvcCrud\mvcCrud\bin\Antlr3.Runtime.pdb
+E:\mvcCrud\mvcCrud\bin\Newtonsoft.Json.xml
+E:\mvcCrud\mvcCrud\bin\EntityFramework.xml
+E:\mvcCrud\mvcCrud\bin\EntityFramework.SqlServer.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Core.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Facebook.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Cookies.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.OAuth.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Google.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.Twitter.xml
+E:\mvcCrud\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\mvcCrud\mvcCrud\obj\Debug\mvcCrud.csprojResolveAssemblyReference.cache
+E:\mvcCrud\mvcCrud\obj\Debug\mvcCrud.dll
+E:\mvcCrud\mvcCrud\obj\Debug\mvcCrud.pdb
+E:\Account\mvcCrud\bin\ApplicationInsights.config
+E:\Account\mvcCrud\bin\roslyn\csc.exe
+E:\Account\mvcCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Account\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Account\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Account\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Account\mvcCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Account\mvcCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Account\mvcCrud\bin\roslyn\System.Collections.Immutable.dll
+E:\Account\mvcCrud\bin\roslyn\System.Reflection.Metadata.dll
+E:\Account\mvcCrud\bin\roslyn\vbc.exe
+E:\Account\mvcCrud\bin\roslyn\VBCSCompiler.exe
+E:\Account\mvcCrud\bin\roslyn\VBCSCompiler.exe.config
+E:\Account\mvcCrud\bin\mvcCrud.dll.config
+E:\Account\mvcCrud\bin\mvcCrud.dll
+E:\Account\mvcCrud\bin\mvcCrud.pdb
+E:\Account\mvcCrud\bin\Antlr3.Runtime.dll
+E:\Account\mvcCrud\bin\BLL.dll
+E:\Account\mvcCrud\bin\DOA.dll
+E:\Account\mvcCrud\bin\EntityFramework.dll
+E:\Account\mvcCrud\bin\EntityFramework.SqlServer.dll
+E:\Account\mvcCrud\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Account\mvcCrud\bin\Microsoft.AI.DependencyCollector.dll
+E:\Account\mvcCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Account\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Account\mvcCrud\bin\Microsoft.AI.Web.dll
+E:\Account\mvcCrud\bin\Microsoft.AI.WindowsServer.dll
+E:\Account\mvcCrud\bin\Microsoft.ApplicationInsights.dll
+E:\Account\mvcCrud\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Account\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Account\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Account\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Google.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Account\mvcCrud\bin\Microsoft.Web.Infrastructure.dll
+E:\Account\mvcCrud\bin\Newtonsoft.Json.dll
+E:\Account\mvcCrud\bin\Owin.dll
+E:\Account\mvcCrud\bin\PagedList.dll
+E:\Account\mvcCrud\bin\PagedList.Mvc.dll
+E:\Account\mvcCrud\bin\System.Web.Helpers.dll
+E:\Account\mvcCrud\bin\System.Web.Mvc.dll
+E:\Account\mvcCrud\bin\System.Web.Optimization.dll
+E:\Account\mvcCrud\bin\System.Web.Razor.dll
+E:\Account\mvcCrud\bin\System.Web.WebPages.Deployment.dll
+E:\Account\mvcCrud\bin\System.Web.WebPages.dll
+E:\Account\mvcCrud\bin\System.Web.WebPages.Razor.dll
+E:\Account\mvcCrud\bin\WebGrease.dll
+E:\Account\mvcCrud\bin\BLL.pdb
+E:\Account\mvcCrud\bin\DOA.pdb
+E:\Account\mvcCrud\bin\Microsoft.AI.DependencyCollector.xml
+E:\Account\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Account\mvcCrud\bin\Microsoft.AI.Web.xml
+E:\Account\mvcCrud\bin\Microsoft.AI.WindowsServer.xml
+E:\Account\mvcCrud\bin\Microsoft.ApplicationInsights.xml
+E:\Account\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Account\mvcCrud\bin\PagedList.xml
+E:\Account\mvcCrud\bin\PagedList.Mvc.xml
+E:\Account\mvcCrud\bin\System.Web.Helpers.xml
+E:\Account\mvcCrud\bin\System.Web.Mvc.xml
+E:\Account\mvcCrud\bin\System.Web.Optimization.xml
+E:\Account\mvcCrud\bin\System.Web.Razor.xml
+E:\Account\mvcCrud\bin\System.Web.WebPages.xml
+E:\Account\mvcCrud\bin\System.Web.WebPages.Deployment.xml
+E:\Account\mvcCrud\bin\System.Web.WebPages.Razor.xml
+E:\Account\mvcCrud\bin\Antlr3.Runtime.pdb
+E:\Account\mvcCrud\bin\Newtonsoft.Json.xml
+E:\Account\mvcCrud\bin\EntityFramework.xml
+E:\Account\mvcCrud\bin\EntityFramework.SqlServer.xml
+E:\Account\mvcCrud\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Account\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Account\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Google.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Account\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Account\mvcCrud\obj\Debug\mvcCrud.csprojResolveAssemblyReference.cache
+E:\Account\mvcCrud\obj\Debug\mvcCrud.dll
+E:\Account\mvcCrud\obj\Debug\mvcCrud.pdb
+E:\Account(POS)\mvcCrud\bin\ApplicationInsights.config
+E:\Account(POS)\mvcCrud\bin\roslyn\csc.exe
+E:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Account(POS)\mvcCrud\bin\roslyn\System.Collections.Immutable.dll
+E:\Account(POS)\mvcCrud\bin\roslyn\System.Reflection.Metadata.dll
+E:\Account(POS)\mvcCrud\bin\roslyn\vbc.exe
+E:\Account(POS)\mvcCrud\bin\roslyn\VBCSCompiler.exe
+E:\Account(POS)\mvcCrud\bin\roslyn\VBCSCompiler.exe.config
+E:\Account(POS)\mvcCrud\bin\mvcCrud.dll.config
+E:\Account(POS)\mvcCrud\bin\mvcCrud.dll
+E:\Account(POS)\mvcCrud\bin\mvcCrud.pdb
+E:\Account(POS)\mvcCrud\bin\Antlr3.Runtime.dll
+E:\Account(POS)\mvcCrud\bin\BLL.dll
+E:\Account(POS)\mvcCrud\bin\DOA.dll
+E:\Account(POS)\mvcCrud\bin\EntityFramework.dll
+E:\Account(POS)\mvcCrud\bin\EntityFramework.SqlServer.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.DependencyCollector.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.Web.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.WindowsServer.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.ApplicationInsights.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Google.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Account(POS)\mvcCrud\bin\Microsoft.Web.Infrastructure.dll
+E:\Account(POS)\mvcCrud\bin\Newtonsoft.Json.dll
+E:\Account(POS)\mvcCrud\bin\Owin.dll
+E:\Account(POS)\mvcCrud\bin\PagedList.dll
+E:\Account(POS)\mvcCrud\bin\PagedList.Mvc.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.Helpers.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.Mvc.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.Optimization.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.Razor.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Deployment.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.WebPages.dll
+E:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Razor.dll
+E:\Account(POS)\mvcCrud\bin\WebGrease.dll
+E:\Account(POS)\mvcCrud\bin\BLL.pdb
+E:\Account(POS)\mvcCrud\bin\DOA.pdb
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.DependencyCollector.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.Web.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.AI.WindowsServer.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.ApplicationInsights.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Account(POS)\mvcCrud\bin\PagedList.xml
+E:\Account(POS)\mvcCrud\bin\PagedList.Mvc.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.Helpers.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.Mvc.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.Optimization.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.Razor.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.WebPages.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Deployment.xml
+E:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Razor.xml
+E:\Account(POS)\mvcCrud\bin\Antlr3.Runtime.pdb
+E:\Account(POS)\mvcCrud\bin\Newtonsoft.Json.xml
+E:\Account(POS)\mvcCrud\bin\EntityFramework.xml
+E:\Account(POS)\mvcCrud\bin\EntityFramework.SqlServer.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Google.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Account(POS)\mvcCrud\obj\Debug\mvcCrud.csprojResolveAssemblyReference.cache
+E:\Account(POS)\mvcCrud\obj\Debug\mvcCrud.dll
+E:\Account(POS)\mvcCrud\obj\Debug\mvcCrud.pdb
+F:\Account(POS)\mvcCrud\bin\ApplicationInsights.config
+F:\Account(POS)\mvcCrud\bin\roslyn\csc.exe
+F:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Account(POS)\mvcCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Account(POS)\mvcCrud\bin\roslyn\System.Collections.Immutable.dll
+F:\Account(POS)\mvcCrud\bin\roslyn\System.Reflection.Metadata.dll
+F:\Account(POS)\mvcCrud\bin\roslyn\vbc.exe
+F:\Account(POS)\mvcCrud\bin\roslyn\VBCSCompiler.exe
+F:\Account(POS)\mvcCrud\bin\roslyn\VBCSCompiler.exe.config
+F:\Account(POS)\mvcCrud\bin\mvcCrud.dll.config
+F:\Account(POS)\mvcCrud\bin\mvcCrud.dll
+F:\Account(POS)\mvcCrud\bin\mvcCrud.pdb
+F:\Account(POS)\mvcCrud\bin\Antlr3.Runtime.dll
+F:\Account(POS)\mvcCrud\bin\BLL.dll
+F:\Account(POS)\mvcCrud\bin\DOA.dll
+F:\Account(POS)\mvcCrud\bin\EntityFramework.dll
+F:\Account(POS)\mvcCrud\bin\EntityFramework.SqlServer.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.DependencyCollector.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.Web.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.WindowsServer.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.ApplicationInsights.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Google.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Account(POS)\mvcCrud\bin\Microsoft.Web.Infrastructure.dll
+F:\Account(POS)\mvcCrud\bin\Newtonsoft.Json.dll
+F:\Account(POS)\mvcCrud\bin\Owin.dll
+F:\Account(POS)\mvcCrud\bin\PagedList.dll
+F:\Account(POS)\mvcCrud\bin\PagedList.Mvc.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.Helpers.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.Mvc.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.Optimization.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.Razor.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Deployment.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.WebPages.dll
+F:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Razor.dll
+F:\Account(POS)\mvcCrud\bin\WebGrease.dll
+F:\Account(POS)\mvcCrud\bin\BLL.pdb
+F:\Account(POS)\mvcCrud\bin\DOA.pdb
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.DependencyCollector.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.Web.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.AI.WindowsServer.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.ApplicationInsights.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Account(POS)\mvcCrud\bin\PagedList.xml
+F:\Account(POS)\mvcCrud\bin\PagedList.Mvc.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.Helpers.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.Mvc.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.Optimization.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.Razor.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.WebPages.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Deployment.xml
+F:\Account(POS)\mvcCrud\bin\System.Web.WebPages.Razor.xml
+F:\Account(POS)\mvcCrud\bin\Antlr3.Runtime.pdb
+F:\Account(POS)\mvcCrud\bin\Newtonsoft.Json.xml
+F:\Account(POS)\mvcCrud\bin\EntityFramework.xml
+F:\Account(POS)\mvcCrud\bin\EntityFramework.SqlServer.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Google.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Account(POS)\mvcCrud\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Account(POS)\mvcCrud\obj\Debug\mvcCrud.csprojResolveAssemblyReference.cache
+F:\Account(POS)\mvcCrud\obj\Debug\mvcCrud.dll
+F:\Account(POS)\mvcCrud\obj\Debug\mvcCrud.pdb

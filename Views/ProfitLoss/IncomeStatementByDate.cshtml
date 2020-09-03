@@ -1,0 +1,18 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Income Statement</h2>
+<div>
+    <label for="sum">Income : @ViewBag.Myincome</label>
+</div>
+<div>
+    <label for="sum">Sales Income : @ViewBag.MyString</label>
+</div>
+<div>
+    <label for="sum">Expenses :@ViewBag.Myexpenses</label>
+
+</div>
+<div>
+
+    <label for="sum">Net Earning @Html.TextBox("Remaining", null, new { @class = "form-control", Value = (ViewBag.Myincome + ViewBag.MyString)- (-ViewBag.Myexpenses), @readonly = "readonly" })</label>
+</div>

@@ -1,0 +1,7 @@
+E:\mvcCrud\BLL\bin\Release\BLL.dll
+E:\mvcCrud\BLL\bin\Release\BLL.pdb
+E:\mvcCrud\BLL\bin\Release\DOA.dll
+E:\mvcCrud\BLL\bin\Release\DOA.pdb
+E:\mvcCrud\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\mvcCrud\BLL\obj\Release\BLL.dll
+E:\mvcCrud\BLL\obj\Release\BLL.pdb

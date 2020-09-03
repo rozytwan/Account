@@ -1,0 +1,148 @@
+﻿
+@model IEnumerable<mvcCrud.Models.ProfitLoss>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+<h2>Profit & Loss</h2>
+
+@*@using (Html.BeginForm("IncomeStatement", "ProfitLoss", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+    }*@
+<p>
+    @*Start Date: @Html.TextBox("dt1", null, new { @class = "date-picker" })
+    End Date: @Html.TextBox("dt2", null, new { @class = "date-picker" })*@
+    <form action="/ProfitLoss/SearchProfitLoss" method="post">
+<p>
+    From : <input type="text" name="from" id="from" />
+  
+    To : <input type="text" name="to" id="to" />
+</p>
+<input type="submit" value="Search" class="btn btn-success" />
+        </form>
+@*<button type="button" class="btn btn-warning btn-sm" onclick="location.href='@Url.Action("SearchProfitLoss", "ProfitLoss")'">View Report</button>*@
+
+    </p>
+
+<style>
+    #myDIV {
+        width: 100%;
+        padding: 50px 0;
+        text-align: center;
+        background-color: lightblue;
+        margin-top: 20px;
+    }
+</style>
+<table class="table">
+    <tr class="header">
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.month)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th>
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_name)
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.amount)
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.month)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.date)
+            </td>
+
+        </tr>
+    }
+</table>
+
+<div>
+    <label for="sum">Income :</label>
+    @Model.Where(x => x.status == "Income").Sum(i => i.amount)
+    <label for="sum">Expenses :</label>
+    @Model.Where(x => x.status == "Expenses").Sum(i => i.amount)
+</div>
+<div>
+    <label for="sum">Profit(Loss) :</label>
+    @Model.Sum(i => i.amount)
+   
+</div>
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryui")
+    @Styles.Render("~/Content/cssjqryUi")
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-ui-1.12.1.min.js"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#from').autocomplete({
+
+        });
+        $('#to').autocomplete({
+
+        });
+        $('#from').datepicker();
+
+        $('#from').focus(function () {
+            $('#from').datepicker('show');
+        });
+
+        $('#from').click(function () {
+            $('#from').datepicker('show');
+        });
+        //$('#ui-datepicker-div').show();
+        $('#from').datepicker('show');
+        $('#to').datepicker();
+
+        $('#to').focus(function () {
+            $('#to').datepicker('show');
+        });
+
+        $('#to').click(function () {
+            $('#to').datepicker('show');
+        });
+        //$('#ui-datepicker-div').show();
+        $('#to').datepicker('show');
+    });
+</script>
+    .
+}
+
+

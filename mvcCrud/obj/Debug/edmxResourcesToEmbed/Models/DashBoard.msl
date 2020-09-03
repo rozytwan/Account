@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="POS2Model1StoreContainer" CdmEntityContainer="POS2Entities2">
+    <EntitySetMapping Name="acc_transactions">
+      <EntityTypeMapping TypeName="POS2Model1.acc_transactions">
+        <MappingFragment StoreEntitySet="acc_transactions">
+          <ScalarProperty Name="trans_id" ColumnName="trans_id" />
+          <ScalarProperty Name="category_id" ColumnName="category_id" />
+          <ScalarProperty Name="category_name" ColumnName="category_name" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="fiscal_year" ColumnName="fiscal_year" />
+          <ScalarProperty Name="paymentmode" ColumnName="paymentmode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="account_category">
+      <EntityTypeMapping TypeName="POS2Model1.account_category">
+        <MappingFragment StoreEntitySet="account_category">
+          <ScalarProperty Name="category_id" ColumnName="category_id" />
+          <ScalarProperty Name="category_name" ColumnName="category_name" />
+          <ScalarProperty Name="category_type" ColumnName="category_type" />
+          <ScalarProperty Name="category_code" ColumnName="category_code" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

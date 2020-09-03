@@ -1,0 +1,97 @@
+﻿@using PagedList.Mvc;
+@model IEnumerable<mvcCrud.Models.Category>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+<h2>Categories</h2>
+@using (Html.BeginForm("Search", "Category", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        <div class="col-md-10">
+            <select class="form-control" id="selectedid" name="selectedname">
+                <option>Select Type</option>
+                <option value="Category Type">Category Type</option>
+                <option value="Category Code">Category Code</option>
+            </select>
+            <form action="/Category/Search" method="post">
+                <input type="text" name="category_type" />
+                <input type="submit" value="Search" class="btn btn-success" />
+            </form>
+        </div>
+    </div>
+}
+@Html.ActionLink("Create New", "Create")
+<table class="table">
+    <tr class="header">
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category_type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category_code)
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_type)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.category_code)
+            </td>
+            <td>
+                <button type="button" id="edit" class="btn btn-primary btn-sm" onclick="location.href='@Url.Action("Edit", "Category",new {id=item.category_id })'">Edit</button>
+                <button type="button" id="delete" class="btn btn-warning btn-sm" onclick="location.href='@Url.Action("Delete", "Category",new {id=item.category_id })'">Delete</button>
+
+            </td>
+        </tr>
+    }
+    </div>
+</table>
+
+<div class="modal fade" id="basic" tabindex="-1" role="basic" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title">book Delete Confirmation</h4>
+            </div>
+            <div class="modal-body">
+                Are you Sure!!! You want to delete this Ad?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn blue" id="btnContinueDelete">Continue</button>
+                <button type="button" class="btn default" data-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+        var path_to_delete;
+
+        $(".deleteItem").click(function (e) {
+            path_to_delete = $(this).data('path');
+        });
+
+        $('#delete').click(function () {
+            id.style.display = "none";
+            // window.location = path_to_delete;
+        });
+</script>
+

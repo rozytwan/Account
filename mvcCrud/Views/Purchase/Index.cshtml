@@ -1,0 +1,59 @@
+﻿@model IEnumerable<mvcCrud.Models.Product>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+}
+<p>
+    <b>
+        Search Option:@Html.RadioButton("option", "productname") <text>Product Name</text>
+        @Html.RadioButton("option", "serialnumber") <text>Serial Number </text>
+    </b>
+    @*@Html.TextBox("search")*@
+    <form action="/Product/Search" method="post">
+        <input type="text" name="productname" />
+        <input type="submit" value="Search" class="btn btn-default" />
+    </form>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category_name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.productname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.serialnumber)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+    </div>
+</table>
+
+
+
+
+

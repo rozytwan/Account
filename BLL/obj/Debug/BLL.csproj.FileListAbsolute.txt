@@ -1,0 +1,28 @@
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\bin\Debug\BLL.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\bin\Debug\BLL.pdb
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\bin\Debug\DOA.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\bin\Debug\DOA.pdb
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\obj\Debug\BLL.dll
+C:\Users\Sm Tech\Documents\Visual Studio 2015\Projects\mvcCrud\BLL\obj\Debug\BLL.pdb
+C:\Users\suresh\Downloads\mvcCrud\BLL\bin\Debug\BLL.dll
+C:\Users\suresh\Downloads\mvcCrud\BLL\bin\Debug\BLL.pdb
+C:\Users\suresh\Downloads\mvcCrud\BLL\bin\Debug\DOA.dll
+C:\Users\suresh\Downloads\mvcCrud\BLL\bin\Debug\DOA.pdb
+C:\Users\suresh\Downloads\mvcCrud\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\suresh\Downloads\mvcCrud\BLL\obj\Debug\BLL.dll
+C:\Users\suresh\Downloads\mvcCrud\BLL\obj\Debug\BLL.pdb
+E:\mvcCrud\BLL\bin\Debug\BLL.dll
+E:\mvcCrud\BLL\bin\Debug\BLL.pdb
+E:\mvcCrud\BLL\bin\Debug\DOA.dll
+E:\mvcCrud\BLL\bin\Debug\DOA.pdb
+E:\mvcCrud\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\mvcCrud\BLL\obj\Debug\BLL.dll
+E:\mvcCrud\BLL\obj\Debug\BLL.pdb
+E:\Account\BLL\bin\Debug\BLL.dll
+E:\Account\BLL\bin\Debug\BLL.pdb
+E:\Account\BLL\bin\Debug\DOA.dll
+E:\Account\BLL\bin\Debug\DOA.pdb
+E:\Account\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Account\BLL\obj\Debug\BLL.dll
+E:\Account\BLL\obj\Debug\BLL.pdb
